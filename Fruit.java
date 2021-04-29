@@ -1,6 +1,6 @@
 package Exercise4_2;
 
-public class Fruit { //superclass
+public class Fruit { 
 	protected String name;
 	
 	public Fruit(){ //overloading without argument
